@@ -8,4 +8,5 @@
 
 ## Running the App
 - Clone this repo
-- Run node index.js in you terminal from inside the public directory
+- Run npm install in your terminal
+- Run node index.js in your terminal from inside the public directory
